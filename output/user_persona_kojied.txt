@@ -1,0 +1,77 @@
+# Reddit User Persona: u/kojied
+
+## Personality Traits
+
+**Self-Reflective and Introspective**: Demonstrates deep self-awareness and thoughtful analysis of personal experiences. In their post about intern season, they reflect on feeling "violated" by younger people but then question their own transient nature in the city, showing ability to examine their own biases and assumptions.
+*Evidence: "But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon?"* - https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+
+**Pragmatic Problem-Solver**: Approaches challenges with practical solutions and systematic thinking. Shows this in gaming contexts where they provide strategic advice about resource management and city planning.
+*Evidence: "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey."* - https://www.reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+
+**Intellectually Curious**: Consistently asks thoughtful questions and seeks to understand complex systems, from financial markets to game mechanics to philosophical concepts.
+*Evidence: Multiple posts asking for learning resources and explanations, such as seeking "Best blogs, tutorial channels to learn" about spatial computing* - https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+
+**Entrepreneurial Mindset**: Shows interest in developing solutions and connecting with industry contacts to create new opportunities.
+*Evidence: Claims to know "key decision makers both in the Pokemon Company as well as Niantic" and proposes Pokemon Go for Apple Vision Pro* - https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/
+
+## Interests and Hobbies
+
+**Gaming Enthusiast**: Active across multiple gaming communities including Manor Lords, Project Zomboid, Civilization 5, and NBA discussions. Shows strategic thinking and game mastery.
+*Evidence: Multiple detailed gaming posts and comments, including "3 months in, the cleanest and most functional RV interior zomboid has to offer"* - https://www.reddit.com/r/projectzomboid/comments/13dwl0i/3_months_in_the_cleanest_and_most_functional_rv/
+
+**Technology Early Adopter**: Particularly interested in emerging technologies like Apple Vision Pro, spatial computing, and AI applications. Shows both excitement and critical evaluation of new tech.
+*Evidence: Multiple Vision Pro posts including "Can you actually 'work' in AVP?" expressing both enthusiasm and practical concerns* - https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/
+
+**Financial Markets and Trading**: Active in trading options and stocks, particularly during volatile market periods like early 2020.
+*Evidence: "I've been trading options for the past month or so, and have made good money"* - https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/
+
+**Urban Living and NYC Culture**: Engaged with New York City life, from nightlife experiences to food recommendations to transportation systems.
+*Evidence: Detailed food recommendations "Breakfast - Buvette, Coffee - Lyria, Lunch - Tsukemen okiboru..."* - https://www.reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/
+
+**Plant Care**: Shows interest in gardening and plant maintenance, seeking help with plant health issues.
+*Evidence: Multiple plant clinic posts about English ivy care* - https://www.reddit.com/r/plantclinic/comments/15pvycv/english_ivy_in_critical_condition/
+
+## Communication Style
+
+**Articulate and Thoughtful**: Writes in well-structured, coherent paragraphs with clear reasoning and logical flow.
+*Evidence: The nuanced reflection in the intern season post shows sophisticated writing ability and emotional intelligence*
+
+**Conversational and Helpful**: Engages naturally with other users, offering practical advice and showing genuine interest in helping others solve problems.
+*Evidence: Helpful gaming advice and willingness to share knowledge across various communities*
+
+**Analytical**: Tends to break down complex topics into components and examine them systematically.
+*Evidence: The detailed analysis of ESG ratings and consumer behavior in climate activism post* - https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+
+**Concise but Detailed**: Provides comprehensive information when needed but can also communicate effectively in brief comments.
+*Evidence: Range from detailed posts to short, effective comments like "Would you be interested in a trade agreement with England?"* - https://www.reddit.com/r/AskReddit/comments/1i6rkdz/gamers_dont_say_the_title_of_the_game_but_what/m8gl211/
+
+## Beliefs or Opinions
+
+**Progressive Social Views**: Shows concern for social justice issues and supports systemic change over individual blame.
+*Evidence: "I'm hoping people realize after this that it's not a left or right issue, but rather those with wealth pitting those less fortunate against each other"* - https://www.reddit.com/r/OptimistsUnite/comments/1hnvi2y/i_made_a_post_a_month_or_so_back_that_maga_will/m454yr1/
+
+**Environmental Consciousness**: Advocates for sustainable practices and believes in the power of consumer activism to drive environmental change.
+*Evidence: Detailed post about tracking individual ESG impacts and using consumer purchasing power for climate activism* - https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+
+**Skeptical of Current Systems**: Questions traditional narratives and shows interest in alternative interpretations of history and current events.
+*Evidence: Elaborate One Piece theory connecting the manga to real-world power structures and historical manipulation* - https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
+
+**Immigration Perspective**: As someone who experienced the H1B visa system, shows gratitude for opportunities while understanding the complexities of immigration policy.
+*Evidence: "I used to be one, and I'm grateful for the opportunity to find a better life here in the US"* - https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/
+
+## Emotional Tone or Attitude
+
+**Generally Optimistic but Realistic**: Maintains hope for positive change while acknowledging current limitations and challenges.
+*Evidence: Interest in developing solutions (ESG tracking, gratification apps) while recognizing systemic issues*
+
+**Slightly Disillusioned with Certain Aspects of Modern Life**: Shows frustration with commercialization, particularly in sports and entertainment.
+*Evidence: "Cut the number of ads in half, make consistent ref calls, and get gambling out of the league. But we know none of those are happening, so I'm definitely out"* - https://www.reddit.com/r/warriors/comments/1hnrjru/future_of_the_league/m454lgx/
+
+**Intellectually Engaged**: Demonstrates sustained interest in learning and understanding complex topics across multiple domains.
+*Evidence: Consistent pattern of asking thoughtful questions and seeking educational resources across various subreddits*
+
+**Community-Minded**: Shows willingness to contribute to communities and help others, whether through gaming advice, organizing events, or sharing knowledge.
+*Evidence: Volunteering to help organize events: "I'm down to help! Do it at wsp and put up fliers around the city"* - https://www.reddit.com/r/AskNYC/comments/1haran2/if_i_created_a_memorial_for_all_those_denied/m1ax9to/
+
+**Culturally Aware**: Demonstrates knowledge of both American and Japanese culture, serving as a bridge between different cultural perspectives.
+*Evidence: Japanese language knowledge and cultural context in One Piece discussions* - https://www.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/
