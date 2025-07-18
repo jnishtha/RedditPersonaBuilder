@@ -82,26 +82,16 @@ kojied_raw_data.txt → Raw scraped Reddit content
 
 user_persona_kojied.txt → AI-generated persona from Claude
 
+## 📜 License
+This project is created for educational and evaluation purposes only.
+
+All Reddit content belongs to their respective authors as per Reddit's terms of service.
+
+Do not use this project for commercial or redistribution purposes without permission.
+
 ## 👩‍💻 Author
 Nishtha Jain
 
-## 📜 License
-This project is created for educational and evaluation purposes only.
-All Reddit content belongs to their respective authors as per Reddit's terms of service.
-Do not use this project for commercial or redistribution purposes without permission.
 
-```yaml
 
----
-
-### ✅ After You Paste:
-
-1. Save the file
-2. Run:
-
-```bash
-git add README.md
-git commit -m "Fix README formatting and sections"
-git push
-```
 
